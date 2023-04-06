@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenanba
 - 
-- 👀 I’m interested in PHP, React, BS
+- 👀 I’m interested in PHP, React new Technology
 
 - 💞️ I’m looking to collaborate on Laravel, Livewire .......
 
